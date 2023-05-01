@@ -24,7 +24,7 @@ I used different clasification model to predit user purchase intensions. Visit f
 
 **WE06-Text Mining: Explored the impacts of applying SVD to the data.  Analyzed how changing the n_components parameter impacts the modeling results. Use the values 100, 300, and 500 and how each of these values impacted the performance of the models.**
 
-**WE07-Neural Networks: Added Neural Networks to my assignment-1 Online shopper purchasing intensions and compared noemal classification models and Neural network models**
+**WE07-Neural Networks: Added Neural Networks to my assignment-1 Online shopper purchasing intensions and compared normal classification models and Neural network models**
 
 **WE10- RNN predicted Delta Airlines stock price by RNN, LTSM, Gru, and Conv1D techniques to predict the 10th-day closing pric baseed on past nine days**
 
