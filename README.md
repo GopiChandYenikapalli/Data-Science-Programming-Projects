@@ -32,5 +32,10 @@ I used different clasification model to predit user purchase intensions. Visit f
 
 Please note : In floder names W means week
 
-![image](https://user-images.githubusercontent.com/124816585/235490455-640c3060-f937-49e4-a553-ee46d12a0f54.png)
 
+![image](https://user-images.githubusercontent.com/124816585/235550822-a9615515-1422-4d5b-8fb6-af234e1cb055.png)
+
+
+**Contact details**
+
+If you've enjoyed browsing through my portfolio or would like to discuss potential work opportunities or collaborations, please reach out to me via email gopichandyenikapalli@usf.edu or https://www.linkedin.com/in/gopichand-yenikapalli-usf/  I'm always excited to connect with new people in the industry and explore potential partnerships or projects together. Looking forward to hearing from you soon!
